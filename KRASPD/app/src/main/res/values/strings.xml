@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KRASPD</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Krasnoyarsk Online Police Department</string>
+    <string name="nav_header_subtitle">kowalski228@mail.ru</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_map">Map</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_when">When</string>
+</resources>
